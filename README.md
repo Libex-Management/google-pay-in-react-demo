@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+# learn How to implement Google Pay in React app. Google Pay is a fast, safe and secure payment system.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
